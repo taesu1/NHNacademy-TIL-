@@ -1,0 +1,4 @@
+2023-09-03 02:38:07,238 [main] INFO c.n.m.Counter [Counter.java:26] - 물건 가격 
+2023-09-03 02:39:02,380 [main] WARN c.n.m.Counter [Counter.java:22] - 계산 실패
+2023-09-03 02:39:26,963 [main] WARN c.n.m.Food [Food.java:35] - 존재하지 않는 상품 추가 시도
+2023-09-03 02:39:50,163 [main] INFO c.n.m.Counter [Counter.java:26] - 물건 가격 

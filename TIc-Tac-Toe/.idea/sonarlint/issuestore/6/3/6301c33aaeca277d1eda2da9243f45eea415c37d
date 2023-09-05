@@ -1,0 +1,30 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(†úËİşÿÿÿÿ8ª¼Œ«¦1
+u	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(ŠõÿË8«¼Œ«¦1
+7
+java:S1220""Move this file to a named package.8«¼Œ«¦1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘8µ¼Œ«¦1
+L	java:S106"+Replace this use of System.out by a logger.(À£ôüÿÿÿÿ8·¼Œ«¦1
+G	java:S106"+Replace this use of System.out by a logger.(ÌÊÅÇ8·¼Œ«¦1
+B
+java:S3457"%String contains no format specifiers.(‘Ÿ½¢8¸¼Œ«¦1
+G	java:S106"+Replace this use of System.out by a logger.(‘Ÿ½¢8¸¼Œ«¦1
+W
+java:S1119";Refactor the code to remove this label and the need for it.(àÏÅ)8¸¼Œ«¦1
+X
+java:S1119";Refactor the code to remove this label and the need for it.(Ô·ä¨8ë«¦1
+6
+java:S1065"Remove this unused label.(Ô·ä¨8Ï²¦«¦1
+G	java:S106"+Replace this use of System.out by a logger.(‰¹ûè8¸¼Œ«¦1
+L	java:S106""+Replace this use of System.out by a logger.(»ôÀ€ıÿÿÿÿ8¸¼Œ«¦1
+G	java:S106%"+Replace this use of System.out by a logger.(ò¼å8¹¼Œ«¦1
+G	java:S106+"+Replace this use of System.out by a logger.(ÄÑ®8¹¼Œ«¦1
+X
+java:S11190";Refactor the code to remove this label and the need for it.(§Ÿíº8¹¼Œ«¦1
+6
+java:S10650"Remove this unused label.(§Ÿíº8êÀ£«¦1
+G	java:S1064"+Replace this use of System.out by a logger.(Ù®Õğ8¹¼Œ«¦1
+G	java:S106;"+Replace this use of System.out by a logger.(ÕÊ‘ª8¹¼Œ«¦1
+G	java:S106>"+Replace this use of System.out by a logger.(ò¼å8º¼Œ«¦1
+G	java:S106H"+Replace this use of System.out by a logger.(ÄÑ®8º¼Œ«¦1

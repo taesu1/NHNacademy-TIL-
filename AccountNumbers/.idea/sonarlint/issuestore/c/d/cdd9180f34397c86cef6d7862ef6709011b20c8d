@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+@	java:S106B"+Replace this use of System.out by a logger.(é¯à‘
+@	java:S106C"+Replace this use of System.out by a logger.(¯û½³
+@	java:S106D"+Replace this use of System.out by a logger.(÷–ž†
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

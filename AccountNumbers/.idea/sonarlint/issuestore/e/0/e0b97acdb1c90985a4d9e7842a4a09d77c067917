@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+J
+java:S2200)"/Only the sign of the result should be examined.(‰ØÜğÿÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(öÂÍ
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‹ÍŞıÿÿÿÿ
+?	java:S106F"+Replace this use of System.out by a logger.(­„ğ:
+E	java:S106I"+Replace this use of System.out by a logger.(ÎîÓøÿÿÿÿ
+7
+java:S2111U"!Use "BigDecimal.valueOf" instead.(öêÕ§
+@	java:S106_"+Replace this use of System.out by a logger.(÷ıê‚
+@	java:S106`"+Replace this use of System.out by a logger.(¯û½³
+@	java:S106a"+Replace this use of System.out by a logger.(óíß‰

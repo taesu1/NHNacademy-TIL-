@@ -1,0 +1,17 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(èÊá8›ß‰©1
+G	java:S106
+"+Replace this use of System.out by a logger.(õğÛì8˜›ß‰©1
+G	java:S106"+Replace this use of System.out by a logger.(Ùåä8š›ß‰©1
+G	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8››ß‰©1
+L	java:S106,"+Replace this use of System.out by a logger.(¤µ¨®ûÿÿÿÿ8›ß‰©1
+]	java:S1253"<This block of commented-out lines of code should be removed.(öîÒúûÿÿÿÿ8 ›ß‰©1
+L	java:S106<"+Replace this use of System.out by a logger.(°¯ÿÁüÿÿÿÿ8¡›ß‰©1
+G	java:S106@"+Replace this use of System.out by a logger.(Ö¯§œ8¡›ß‰©1
+L	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¡›ß‰©1
+G	java:S106K"+Replace this use of System.out by a logger.(îıİ¸8¢›ß‰©1
+G	java:S106Y"+Replace this use of System.out by a logger.(ƒº÷™8¥›ß‰©1
+L	java:S106c"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8¦›ß‰©1
+G	java:S106n"+Replace this use of System.out by a logger.(ƒº÷™8¨›ß‰©1
+]	java:S125v"<This block of commented-out lines of code should be removed.(›É© ùÿÿÿÿ8¨›ß‰©1
